@@ -1,5 +1,4 @@
 package com.example.application.data.service;
-
 import com.example.application.data.entity.Lab;
 import com.example.application.data.service.repo.LabRepository;
 import org.springframework.stereotype.Service;

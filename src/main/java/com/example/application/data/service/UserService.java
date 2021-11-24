@@ -1,5 +1,4 @@
 package com.example.application.data.service;
-
 import com.example.application.data.entity.User;
 import com.example.application.data.entity.enums.Role;
 import com.example.application.data.service.repo.UserRepository;

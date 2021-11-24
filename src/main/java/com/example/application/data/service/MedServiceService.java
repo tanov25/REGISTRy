@@ -1,5 +1,4 @@
 package com.example.application.data.service;
-
 import com.example.application.data.entity.MedService;
 import com.example.application.data.service.repo.MedServiceRepository;
 import org.springframework.stereotype.Service;
