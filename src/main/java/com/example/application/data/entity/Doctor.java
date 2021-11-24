@@ -124,3 +124,4 @@ private User user;
         return Objects.hash(super.hashCode(), surname, name, otchestvo, speciality, experience, user, visits);
     }
 }
+

@@ -1,7 +1,6 @@
 package com.example.application.data.entity;
 
 import com.example.application.data.AbstractEntity;
-
 import javax.persistence.*;
 import java.io.Serializable;
 import java.util.Date;
