@@ -1,5 +1,4 @@
 package com.example.application.views.main;
-
 import java.util.Optional;
 
 import com.example.application.data.entity.Doctor;
